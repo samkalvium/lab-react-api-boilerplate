@@ -1,0 +1,17 @@
+
+
+.header {
+  font-size: 20px;
+  text-align: center;
+  color: red;
+  font-weight: 900;
+}
+
+.flex{
+  display: flex;
+  justify-content: space-around;
+}
+
+.flex p{
+  padding-left: 15px;
+}
